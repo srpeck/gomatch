@@ -1,0 +1,15 @@
+# Environmental variables
+.env
+
+# Postgres connection string
+.pgpass
+
+# SSL credentials
+ssl_credentials
+
+# VIM
+*.swp
+*~
+
+# Executable
+gomatch
