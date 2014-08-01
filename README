@@ -1,0 +1,5 @@
+Gomatch is a single page web application backed by a RESTful web service in Go (similar to https://github.com/srpeck/match). It uses server sent events to refresh the lists of games and players. 
+
+go get github.com/srpeck/gomatch
+go build; ./gomatch
+http://localhost:8000
